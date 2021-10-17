@@ -1,7 +1,7 @@
 Assignment-2
-Submitted by:- Sayahnneeta Dutta
-Scholar Id- 2012010
-CSE Sec-A
+Submitted by:- Piyush Musaddi
+Scholar Id- 2012187
+CSE Sec-B
 Course code: CS201
 National Institute of Technology, Silchar
 
